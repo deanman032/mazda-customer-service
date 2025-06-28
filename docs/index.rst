@@ -3,7 +3,7 @@ How to Contact Mazda Customer Service? 📞🚗
 
 Need help with your Mazda vehicle? Whether it’s a question about your car’s features, a technical issue, or something to do with your **mazda gps update** or **mazda navigation update**, the friendly folks at **mazda customer service** are here to help! 😊 In this guide, we’ll walk you through the best ways to reach out to **mazda customer care**, what to expect, and how to make sure your problem gets solved quickly and efficiently. ✅
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
